@@ -1,4 +1,4 @@
-# [Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md) (v1.0) - README
+# [Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md) - README
 
 ## License Overview
 
