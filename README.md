@@ -1,17 +1,17 @@
-# [Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md) - README
+# [Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md) - README
 
 ## License Overview
 
-The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** is a powerful, open-source license designed to give the author full control over their software while allowing for flexible usage, modification, and distribution under clearly defined terms. This license ensures that the author retains the ultimate rights and authority to manage the software, protect its integrity, and enforce its terms in accordance with both legal and ethical standards.
+The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** is a powerful, open-source license designed to give the author full control over their software while allowing for flexible usage, modification, and distribution under clearly defined terms. This license ensures that the author retains the ultimate rights and authority to manage the software, protect its integrity, and enforce its terms in accordance with both legal and ethical standards.
 
-The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** provides extensive rights to users, but with certain restrictions and obligations to maintain control over the software and its usage. The license is designed to be compatible with other open-source licenses under specific circumstances, ensuring smooth transitions for both the author and the users.
+The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** provides extensive rights to users, but with certain restrictions and obligations to maintain control over the software and its usage. The license is designed to be compatible with other open-source licenses under specific circumstances, ensuring smooth transitions for both the author and the users.
 
 ---
 
 ## Key Features
 
 ### 1. Author Control
-The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** places the author in full control of the software, including the ability to:
+The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** places the author in full control of the software, including the ability to:
 - Approve or reject modifications or derivative works.
 - Revert any unauthorized changes to the original state.
 - Transition the software to another license with prior notice.
@@ -22,7 +22,7 @@ Users are granted:
 - The right to contribute back to the software, subject to the author's approval.
 
 ### 3. Restrictions
-The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** imposes several restrictions to prevent misuse of the software:
+The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** imposes several restrictions to prevent misuse of the software:
 - Prohibited activities include illegal usage, malicious code development, and circumvention of technical restrictions.
 - Distribution must maintain the original license and provide clear documentation on any modifications made.
 
@@ -50,7 +50,7 @@ The license is divided into several key sections:
 1. **Definitions**: Key terms used throughout the license are defined.
 2. **Grant of Rights**: Rights granted to users, including usage, modification, and distribution.
 3. **Terms and Conditions**: Rules users must follow, including restrictions and responsibilities.
-4. **License Transitions and Compatibility**: Rules for transitioning to or from the **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** to other licenses.
+4. **License Transitions and Compatibility**: Rules for transitioning to or from the **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** to other licenses.
 5. **Intellectual Property and Patent Grant**: How patents and intellectual property are handled.
 6. **Compliance and Monitoring**: Auditing and compliance reporting requirements.
 7. **Termination and Revocation**: Conditions under which the license can be terminated.
@@ -63,7 +63,7 @@ The license is divided into several key sections:
 
 ## Transitioning and Versioning
 
-The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** includes clauses for transitioning between different versions and from or to other licenses. Users are given the ability to transition the license with the author's written consent, ensuring that changes in licensing are managed carefully and in alignment with the software's purpose. The current version is **v1.0**.
+The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** includes clauses for transitioning between different versions and from or to other licenses. Users are given the ability to transition the license with the author's written consent, ensuring that changes in licensing are managed carefully and in alignment with the software's purpose. The current version is **v1.1**.
 
 If you wish to downgrade or upgrade the license, the author will provide guidelines on how this transition will occur, with public announcements and full transparency. This ensures the software’s ongoing goals are maintained and that no unforeseen issues arise from license changes.
 
@@ -71,7 +71,7 @@ If you wish to downgrade or upgrade the license, the author will provide guideli
 
 ## Important Notes
 
-- The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** is designed to protect the software's integrity and ethical use while allowing for collaboration and innovation.
+- The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** is designed to protect the software's integrity and ethical use while allowing for collaboration and innovation.
 - Modifications and redistribution must be submitted to the author for approval, ensuring that the software remains aligned with its intended purpose.
 - The license includes provisions for handling potential misuse of the software, including restrictions on activities such as developing malicious software or violating legal standards.
 
@@ -79,6 +79,6 @@ If you wish to downgrade or upgrade the license, the author will provide guideli
 
 ## Summary
 
-The **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** provides the author with full control over the software while offering users flexible rights to use, modify, and distribute the software. This license ensures that the software remains ethical, safe, and in line with the author's long-term vision. It incorporates features such as strong intellectual property rights, compliance reporting, and a robust transition system for license changes, making it an ideal choice for developers seeking both control and collaboration.
+The **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)** provides the author with full control over the software while offering users flexible rights to use, modify, and distribute the software. This license ensures that the software remains ethical, safe, and in line with the author's long-term vision. It incorporates features such as strong intellectual property rights, compliance reporting, and a robust transition system for license changes, making it an ideal choice for developers seeking both control and collaboration.
 
-By using or distributing software under the **[Knoxy License (v1.0)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)**, you agree to comply with its terms and acknowledge the author’s continued oversight and control over the software’s evolution.
+By using or distributing software under the **[Knoxy License (v1.1)](https://github.com/KnoxTheDev/knoxy-license/LICENSE.md)**, you agree to comply with its terms and acknowledge the author’s continued oversight and control over the software’s evolution.
