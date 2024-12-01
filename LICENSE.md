@@ -132,3 +132,11 @@ By using, modifying, or distributing the Software, you acknowledge that you have
 This License will undergo periodic updates to address new legal, technical, and community needs. The current version is **1.1**.
 
 To upgrade or downgrade the License, Users must follow the formal transition process, which will include public announcements, compliance adjustments, and ensuring the Software remains aligned with its evolving goals. Users will be notified of major changes, and no transition will occur without explicit consent from the Author.
+
+---
+
+## END OF LICENSE
+
+---
+
+# SEE MORE <[Knoxy License](https://github.com/KnoxTheDev/knoxy-license/)>
